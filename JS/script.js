@@ -1,6 +1,6 @@
 document.querySelectorAll("a").forEach((link) => {
   link.addEventListener("click", function (e) {
-    e.preventDefault();
+    //e.preventDefault();
 
     // Animations and transformations
     const cube = document.querySelector(".cube");
