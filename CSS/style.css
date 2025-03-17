@@ -544,7 +544,7 @@ i:hover {
     height: 60%;
     padding: 0%;
   }
-  #Projets p {
+  #Projets a {
     font-size: 0.6rem;
   }
   .circles li {
